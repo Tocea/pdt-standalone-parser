@@ -33,5 +33,5 @@ To parse a php4 file you may use the following code :
 
 ### Licence ###
 
-Thie software is released under EPL license
+Thie software is released under [EPL](http://www.eclipse.org/legal/epl-v10.html) license.
 
