@@ -26,7 +26,7 @@ You need to a dependency on the maven project :
 To parse a php4 file you may use the following code :
 
     ASTParser parser = ASTParser.newParser(PHPVersion.PHP4);
-    Program parser.setSource(new File("<your file>"));
+    Program ast = parser.setSource(new File("<your file>"));
     ...
 
 ### Licence ###
