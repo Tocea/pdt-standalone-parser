@@ -9,11 +9,9 @@ It has no dependency on Eclipse or third parties Eclipse plugins.
 
 Checkout the source code and install it with maven in your local repository.
 
-    <dependency>
-      <groupId>com.tocea</groupId>
-      <artifactId>pdt-standalone-parser/artifactId>
-      <version>1.0.0</version>
-    </dependency>
+    git clone http://github.com/Tocea/pdt-standalone-parser.git
+    cd pdt-standalone-parser
+    mvn clean install
 
 ### Usage ###
 
@@ -33,5 +31,5 @@ To parse a php4 file you may use the following code :
 
 ### Licence ###
 
-Thie software is released under [EPL](http://www.eclipse.org/legal/epl-v10.html) license.
+This software is released under [EPL](http://www.eclipse.org/legal/epl-v10.html) license.
 
