@@ -2,8 +2,8 @@
 
 ### Description ###
 
-This software provide a standalone version of the PHP parser used by the PDT Eclipse plugin. 
-It has no dependency on Eclipse or third parties Eclipse plugins.
+This software provide a standalone version of the PHP parser used by the [PDT](http://projects.eclipse.org/projects/tools.pdt) v3.2.0 Eclipse plugin. 
+It has no dependency on Eclipse or third parties Eclipse plugins. 
 
 ### Installation ###
 
